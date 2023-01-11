@@ -13,7 +13,7 @@
 
 <br><br>
 
-- 💬 Ask me about **The valleys of rural Wales aren't quite Silicon Valley, but growing up out here gives you a lot of space to think. When I wasn't out exploring the mountains, I was teaching myself to code. A lot has changed over the years, but I’ve been building for the web since table layouts and under-construction gifs were the Hot New Thing™. Graduating university with a degree in Computer Science and Engineering in 2012, I swapped Pen Y Fan for Mt. Fuji, and moved to Japan where I spent time working in the emerging Chandigarh startup scene. After I started working my way up to lead my frontend development skills. These days, I upskill my skills remotely from the city of organized Space "Chandigarh" and can also be found working on-site with clients.**
+- 💬 Ask me about **The valleys of rural Wales aren't quite Silicon Valley, but growing up out here gives you a lot of space to think. When I wasn't out exploring the mountains, I was teaching myself to code. A lot has changed over the years, but I’ve been building for the web since table layouts and under-construction gifs were the Hot New Thing™. Graduating university with a degree in Computer Science and Engineering in 2012, I swapped Pen Y Fan for Mt. Fuji, and moved to Japan where I spent time working in the emerging Japan startup scene. After I started working my way up to lead my frontend development skills. These days, I upskill my skills remotely from the city of organized Space "Chandigarh" and can also be found working on-site with clients.**
 
 - 📫 How to reach me **im.devanshukumar09@gmail.com**
 
